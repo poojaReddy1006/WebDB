@@ -1,0 +1,178 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    color: #37288c;
+    background: #5d81c154;
+}
+
+nav {
+    margin-top: 240px;
+}
+
+nav a {
+    font-size: 16px;
+    padding-right: 20px;
+    display: inline-block;
+    color: #37288c;
+}
+
+nav a:hover {
+    color: #c71582;
+    text-decoration: underline;
+}
+
+#navi {
+    margin-left: 103px;
+}
+
+.header {
+    display: -webkit-box;
+}
+
+.profileImage {
+    width: auto;
+    max-width: 300px;
+    height: auto;
+}
+
+.locationImg {
+    width: 60px;
+    margin-left: -4px;
+}
+
+.phoneImg {
+    width: 65px;
+    margin-left: 200px;
+    margin-top: 12px;
+}
+
+.locPara {
+    margin-top: 40px;
+    margin-left: 25px;
+}
+
+.phnPara {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.about {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 20px;
+}
+
+.headersection {
+    margin-top: 35px;
+}
+
+.aboutheader {
+    margin-top: unset;
+    margin-left: 85px;
+}
+
+.aboutDetail {
+    padding-top: 30px;
+    margin-left: -83px;
+}
+
+.skillbar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.skillbarlabel {
+    width: 120px;
+    text-align: left;
+}
+
+progress {
+    width: 182px;
+}
+
+.skillcontainer {
+    display: flex;
+    padding-top: 20px;
+}
+
+.project {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: -24px;
+}
+
+.project-icon {
+    width: 181px;
+    height: auto;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.projects {
+    width: 100%;
+    margin-left: 85px;
+    padding-right: 20px;
+}
+
+.diseaseprdiction {
+    height: 106px;
+    width: 183px;
+}
+
+.eduexpcontainer {
+    display: flex;
+    padding-top: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.education {
+    width: 308px;
+    /* padding-left: 20px; */
+}
+
+.experience {
+    margin-left: 79px;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.social-icons img {
+    width: 50px;
+    height: 50px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-left: -65px;
+}
+
+p,
+li,
+label,
+h3 {
+    color: black;
+}
