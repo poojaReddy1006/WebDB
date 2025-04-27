@@ -33,14 +33,12 @@ body {
 #navi
 {
     float: right;
-    margin-right: -55px;
-
 }
 
 nav a {
     color: #37288c;
     font-size: 18px;
-    padding: 0 15px;
+    padding: 0 10px;
     text-decoration: underline;
 }
 
